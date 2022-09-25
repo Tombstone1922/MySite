@@ -1,0 +1,7 @@
+.alt {
+	color:white; bold;
+}
+.p {
+  animation-duration: 3s;
+  animation-name: slidein;
+}
